@@ -1,0 +1,14 @@
+D:\Lab 4\E2-G4\E2-G4\bin\Debug\E2-G4.exe.config
+D:\Lab 4\E2-G4\E2-G4\bin\Debug\E2-G4.exe
+D:\Lab 4\E2-G4\E2-G4\bin\Debug\E2-G4.pdb
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.csprojAssemblyReference.cache
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Form1.resources
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Properties.Resources.resources
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.csproj.GenerateResource.cache
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.csproj.CoreCompileInputs.cache
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.exe
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.pdb
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Registro.resources
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.FrmMenu.resources
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.RDocentes.resources
+D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.REstudiantes.resources
