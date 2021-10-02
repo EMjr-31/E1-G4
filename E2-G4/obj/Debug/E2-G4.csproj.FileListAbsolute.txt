@@ -12,3 +12,17 @@ D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Registro.resources
 D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.FrmMenu.resources
 D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.RDocentes.resources
 D:\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.REstudiantes.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\bin\Debug\E2-G4.exe.config
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\bin\Debug\E2-G4.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\bin\Debug\E2-G4.pdb
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.csprojAssemblyReference.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Form1.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Registro.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.FrmMenu.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.Properties.Resources.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.RDocentes.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2_G4.REstudiantes.resources
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.csproj.GenerateResource.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.csproj.CoreCompileInputs.cache
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.exe
+C:\Users\EMjr\Documents\Universidad\Ciclo 02 -2021\POO\Lab\Lab 4\E2-G4\E2-G4\obj\Debug\E2-G4.pdb

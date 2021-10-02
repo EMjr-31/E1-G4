@@ -32,13 +32,19 @@ namespace E2_G4
 
         private void btnModify_Click(object sender, EventArgs e)
         {
+            ///Select item of data grid
+            DataGridViewRow select = dgvPersona.SelectedRows[0];
+            index = dgvPersona.Rows.IndexOf(select);
             //Check if index is selected
+            //Information store class
+            Persona per = new Persona();
+            per.Nombre = txtName.Text;
+            per.Usuario = txtUser.Text;
+            per.Codigo = txtCode.Text;
+            //check if index is selected
             if (index > -1)
             {
-                Persons.RemoveAt(index);
-                index = -1;
-                clean();
-                updateGrip();
+                Persons[index] = per;
             }
             else
             {
@@ -50,9 +56,9 @@ namespace E2_G4
         {
             ///Select item of data grid
             DataGridViewRow select = dgvPersona.SelectedRows[0];
-            int pos = dgvPersona.Rows.IndexOf(select);
+            index = dgvPersona.Rows.IndexOf(select);
             //Information store class
-            Persona per = new Persona();
+            Persona per = Persons[index];
             txtName.Text = per.Nombre;
             txtUser.Text = per.Usuario;
             txtCode.Text = per.Codigo;
